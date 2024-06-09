@@ -1,0 +1,1130 @@
+{
+    "Sonneratia apetala (keora)": [
+        {
+            "District Name": "BAGERHAT",
+            "Type": "Not Suitable",
+            "Area (SQKM)": 0.16
+        },
+        {
+            "District Name": "BAGERHAT",
+            "Type": "Marginally Suitable",
+            "Area (SQKM)": 199.9
+        },
+        {
+            "District Name": "BAGERHAT",
+            "Type": "Suitable",
+            "Area (SQKM)": 836.44
+        },
+        {
+            "District Name": "BAGERHAT",
+            "Type": "High Suitable",
+            "Area (SQKM)": 812.43
+        },
+        {
+            "District Name": "BORGUNA",
+            "Type": "Not Suitable",
+            "Area (SQKM)": 0.07
+        },
+        {
+            "District Name": "BORGUNA",
+            "Type": "Marginally Suitable",
+            "Area (SQKM)": 3.13
+        },
+        {
+            "District Name": "BORGUNA",
+            "Type": "Suitable",
+            "Area (SQKM)": 1022.85
+        },
+        {
+            "District Name": "BORGUNA",
+            "Type": "High Suitable",
+            "Area (SQKM)": 174.59
+        },
+        {
+            "District Name": "BARISAL",
+            "Type": "Not Suitable",
+            "Area (SQKM)": 0.01
+        },
+        {
+            "District Name": "BARISAL",
+            "Type": "Marginally Suitable",
+            "Area (SQKM)": 6.84
+        },
+        {
+            "District Name": "BARISAL",
+            "Type": "Suitable",
+            "Area (SQKM)": 1786.14
+        },
+        {
+            "District Name": "BARISAL",
+            "Type": "High Suitable",
+            "Area (SQKM)": 0.15
+        },
+        {
+            "District Name": "BHOLA",
+            "Type": "Not Suitable",
+            "Area (SQKM)": 1.09
+        },
+        {
+            "District Name": "BHOLA",
+            "Type": "Marginally Suitable",
+            "Area (SQKM)": 2.37
+        },
+        {
+            "District Name": "BHOLA",
+            "Type": "Suitable",
+            "Area (SQKM)": 1393.93
+        },
+        {
+            "District Name": "BHOLA",
+            "Type": "High Suitable",
+            "Area (SQKM)": 22.96
+        },
+        {
+            "District Name": "CHATTOGRAM",
+            "Type": "Not Suitable",
+            "Area (SQKM)": 471.97
+        },
+        {
+            "District Name": "CHATTOGRAM",
+            "Type": "Marginally Suitable",
+            "Area (SQKM)": 1436.34
+        },
+        {
+            "District Name": "CHATTOGRAM",
+            "Type": "Suitable",
+            "Area (SQKM)": 2116.71
+        },
+        {
+            "District Name": "CHATTOGRAM",
+            "Type": "High Suitable",
+            "Area (SQKM)": 52.67
+        },
+        {
+            "District Name": "COXBAZAR",
+            "Type": "Not Suitable",
+            "Area (SQKM)": 0.6
+        },
+        {
+            "District Name": "COXBAZAR",
+            "Type": "Marginally Suitable",
+            "Area (SQKM)": 355.5
+        },
+        {
+            "District Name": "COXBAZAR",
+            "Type": "Suitable",
+            "Area (SQKM)": 1061.23
+        },
+        {
+            "District Name": "COXBAZAR",
+            "Type": "High Suitable",
+            "Area (SQKM)": 181.91
+        },
+        {
+            "District Name": "FENI",
+            "Type": "Not Suitable",
+            "Area (SQKM)": 2.21
+        },
+        {
+            "District Name": "FENI",
+            "Type": "Marginally Suitable",
+            "Area (SQKM)": 645.94
+        },
+        {
+            "District Name": "FENI",
+            "Type": "Suitable",
+            "Area (SQKM)": 104.21
+        },
+        {
+            "District Name": "FENI",
+            "Type": "High Suitable",
+            "Area (SQKM)": 0
+        },
+        {
+            "District Name": "JHALOKATI",
+            "Type": "Not Suitable",
+            "Area (SQKM)": 0
+        },
+        {
+            "District Name": "JHALOKATI",
+            "Type": "Marginally Suitable",
+            "Area (SQKM)": 0.16
+        },
+        {
+            "District Name": "JHALOKATI",
+            "Type": "Suitable",
+            "Area (SQKM)": 667.86
+        },
+        {
+            "District Name": "JHALOKATI",
+            "Type": "High Suitable",
+            "Area (SQKM)": 0
+        },
+        {
+            "District Name": "KHULNA",
+            "Type": "Not Suitable",
+            "Area (SQKM)": 1.92
+        },
+        {
+            "District Name": "KHULNA",
+            "Type": "Marginally Suitable",
+            "Area (SQKM)": 568.52
+        },
+        {
+            "District Name": "KHULNA",
+            "Type": "Suitable",
+            "Area (SQKM)": 877.7
+        },
+        {
+            "District Name": "KHULNA",
+            "Type": "High Suitable",
+            "Area (SQKM)": 450.44
+        },
+        {
+            "District Name": "LAKSHMIPUR",
+            "Type": "Not Suitable",
+            "Area (SQKM)": 0.13
+        },
+        {
+            "District Name": "LAKSHMIPUR",
+            "Type": "Marginally Suitable",
+            "Area (SQKM)": 113.51
+        },
+        {
+            "District Name": "LAKSHMIPUR",
+            "Type": "Suitable",
+            "Area (SQKM)": 715.57
+        },
+        {
+            "District Name": "LAKSHMIPUR",
+            "Type": "High Suitable",
+            "Area (SQKM)": 186.07
+        },
+        {
+            "District Name": "NOAKHALI",
+            "Type": "Not Suitable",
+            "Area (SQKM)": 4.86
+        },
+        {
+            "District Name": "NOAKHALI",
+            "Type": "Marginally Suitable",
+            "Area (SQKM)": 551.45
+        },
+        {
+            "District Name": "NOAKHALI",
+            "Type": "Suitable",
+            "Area (SQKM)": 1451.07
+        },
+        {
+            "District Name": "NOAKHALI",
+            "Type": "High Suitable",
+            "Area (SQKM)": 57.26
+        },
+        {
+            "District Name": "PATUAKHALI",
+            "Type": "Not Suitable",
+            "Area (SQKM)": 0.02
+        },
+        {
+            "District Name": "PATUAKHALI",
+            "Type": "Marginally Suitable",
+            "Area (SQKM)": 12.53
+        },
+        {
+            "District Name": "PATUAKHALI",
+            "Type": "Suitable",
+            "Area (SQKM)": 955.7
+        },
+        {
+            "District Name": "PATUAKHALI",
+            "Type": "High Suitable",
+            "Area (SQKM)": 97.38
+        },
+        {
+            "District Name": "PIROJPUR",
+            "Type": "Not Suitable",
+            "Area (SQKM)": 2.31
+        },
+        {
+            "District Name": "PIROJPUR",
+            "Type": "Marginally Suitable",
+            "Area (SQKM)": 1.43
+        },
+        {
+            "District Name": "PIROJPUR",
+            "Type": "Suitable",
+            "Area (SQKM)": 2056.06
+        },
+        {
+            "District Name": "PIROJPUR",
+            "Type": "High Suitable",
+            "Area (SQKM)": 77.6
+        },
+        {
+            "District Name": "SATHKHIRA",
+            "Type": "Not Suitable",
+            "Area (SQKM)": 1
+        },
+        {
+            "District Name": "SATHKHIRA",
+            "Type": "Marginally Suitable",
+            "Area (SQKM)": 770.21
+        },
+        {
+            "District Name": "SATHKHIRA",
+            "Type": "Suitable",
+            "Area (SQKM)": 853.84
+        },
+        {
+            "District Name": "SATHKHIRA",
+            "Type": "High Suitable",
+            "Area (SQKM)": 492.94
+        }
+    ],
+    "Avicennia officinalis (Baen)": [
+        {
+            "District Name": "BAGERHAT",
+            "Type": "Not Suitable",
+            "Area (SQKM)": 1.39
+        },
+        {
+            "District Name": "BAGERHAT",
+            "Type": "Marginally Suitable",
+            "Area (SQKM)": 616.56
+        },
+        {
+            "District Name": "BAGERHAT",
+            "Type": "Suitable",
+            "Area (SQKM)": 670.33
+        },
+        {
+            "District Name": "BAGERHAT",
+            "Type": "High Suitable",
+            "Area (SQKM)": 560.64
+        },
+        {
+            "District Name": "BARGUNA",
+            "Type": "Not Suitable",
+            "Area (SQKM)": 0.34
+        },
+        {
+            "District Name": "BARGUNA",
+            "Type": "Marginally Suitable",
+            "Area (SQKM)": 45.32
+        },
+        {
+            "District Name": "BARGUNA",
+            "Type": "Suitable",
+            "Area (SQKM)": 542.69
+        },
+        {
+            "District Name": "BARGUNA",
+            "Type": "High Suitable",
+            "Area (SQKM)": 612.33
+        },
+        {
+            "District Name": "BARISHAL",
+            "Type": "Not Suitable",
+            "Area (SQKM)": 2.55
+        },
+        {
+            "District Name": "BARISHAL",
+            "Type": "Marginally Suitable",
+            "Area (SQKM)": 609.4
+        },
+        {
+            "District Name": "BARISHAL",
+            "Type": "Suitable",
+            "Area (SQKM)": 1181.05
+        },
+        {
+            "District Name": "BARISHAL",
+            "Type": "High Suitable",
+            "Area (SQKM)": 0
+        },
+        {
+            "District Name": "BHOLA",
+            "Type": "Not Suitable",
+            "Area (SQKM)": 1.06
+        },
+        {
+            "District Name": "BHOLA",
+            "Type": "Marginally Suitable",
+            "Area (SQKM)": 7.13
+        },
+        {
+            "District Name": "BHOLA",
+            "Type": "Suitable",
+            "Area (SQKM)": 1090.09
+        },
+        {
+            "District Name": "BHOLA",
+            "Type": "High Suitable",
+            "Area (SQKM)": 322.1
+        },
+        {
+            "District Name": "CHATTOGRAM",
+            "Type": "Not Suitable",
+            "Area (SQKM)": 283.83
+        },
+        {
+            "District Name": "CHATTOGRAM",
+            "Type": "Marginally Suitable",
+            "Area (SQKM)": 698.38
+        },
+        {
+            "District Name": "CHATTOGRAM",
+            "Type": "Suitable",
+            "Area (SQKM)": 2900.6
+        },
+        {
+            "District Name": "CHATTOGRAM",
+            "Type": "High Suitable",
+            "Area (SQKM)": 195.07
+        },
+        {
+            "District Name": "COXBAZAR",
+            "Type": "Not Suitable",
+            "Area (SQKM)": 21.38
+        },
+        {
+            "District Name": "COXBAZAR",
+            "Type": "Marginally Suitable",
+            "Area (SQKM)": 223.8
+        },
+        {
+            "District Name": "COXBAZAR",
+            "Type": "Suitable",
+            "Area (SQKM)": 1238.7
+        },
+        {
+            "District Name": "COXBAZAR",
+            "Type": "High Suitable",
+            "Area (SQKM)": 115.34
+        },
+        {
+            "District Name": "FENI",
+            "Type": "Not Suitable",
+            "Area (SQKM)": 0.5
+        },
+        {
+            "District Name": "FENI",
+            "Type": "Marginally Suitable",
+            "Area (SQKM)": 181.66
+        },
+        {
+            "District Name": "FENI",
+            "Type": "Suitable",
+            "Area (SQKM)": 516.5
+        },
+        {
+            "District Name": "FENI",
+            "Type": "High Suitable",
+            "Area (SQKM)": 53.67
+        },
+        {
+            "District Name": "JHALOKATI",
+            "Type": "Not Suitable",
+            "Area (SQKM)": 0.16
+        },
+        {
+            "District Name": "JHALOKATI",
+            "Type": "Marginally Suitable",
+            "Area (SQKM)": 44.72
+        },
+        {
+            "District Name": "JHALOKATI",
+            "Type": "Suitable",
+            "Area (SQKM)": 623.14
+        },
+        {
+            "District Name": "JHALOKATI",
+            "Type": "High Suitable",
+            "Area (SQKM)": 0
+        },
+        {
+            "District Name": "KHULNA",
+            "Type": "Not Suitable",
+            "Area (SQKM)": 2.19
+        },
+        {
+            "District Name": "KHULNA",
+            "Type": "Marginally Suitable",
+            "Area (SQKM)": 591.45
+        },
+        {
+            "District Name": "KHULNA",
+            "Type": "Suitable",
+            "Area (SQKM)": 509
+        },
+        {
+            "District Name": "KHULNA",
+            "Type": "High Suitable",
+            "Area (SQKM)": 795.96
+        },
+        {
+            "District Name": "LAKSHMIPUR",
+            "Type": "Not Suitable",
+            "Area (SQKM)": 0.43
+        },
+        {
+            "District Name": "LAKSHMIPUR",
+            "Type": "Marginally Suitable",
+            "Area (SQKM)": 246.25
+        },
+        {
+            "District Name": "LAKSHMIPUR",
+            "Type": "Suitable",
+            "Area (SQKM)": 763.53
+        },
+        {
+            "District Name": "LAKSHMIPUR",
+            "Type": "High Suitable",
+            "Area (SQKM)": 5.06
+        },
+        {
+            "District Name": "NOAKHALI",
+            "Type": "Not Suitable",
+            "Area (SQKM)": 0.77
+        },
+        {
+            "District Name": "NOAKHALI",
+            "Type": "Marginally Suitable",
+            "Area (SQKM)": 444.26
+        },
+        {
+            "District Name": "NOAKHALI",
+            "Type": "Suitable",
+            "Area (SQKM)": 1122.18
+        },
+        {
+            "District Name": "NOAKHALI",
+            "Type": "High Suitable",
+            "Area (SQKM)": 497.43
+        },
+        {
+            "District Name": "PATUAKHALI",
+            "Type": "Not Suitable",
+            "Area (SQKM)": 1.36
+        },
+        {
+            "District Name": "PATUAKHALI",
+            "Type": "Marginally Suitable",
+            "Area (SQKM)": 129.86
+        },
+        {
+            "District Name": "PATUAKHALI",
+            "Type": "Suitable",
+            "Area (SQKM)": 1271.35
+        },
+        {
+            "District Name": "PATUAKHALI",
+            "Type": "High Suitable",
+            "Area (SQKM)": 734.84
+        },
+        {
+            "District Name": "PIROJPUR",
+            "Type": "Not Suitable",
+            "Area (SQKM)": 1.49
+        },
+        {
+            "District Name": "PIROJPUR",
+            "Type": "Marginally Suitable",
+            "Area (SQKM)": 402.82
+        },
+        {
+            "District Name": "PIROJPUR",
+            "Type": "Suitable",
+            "Area (SQKM)": 659.39
+        },
+        {
+            "District Name": "PIROJPUR",
+            "Type": "High Suitable",
+            "Area (SQKM)": 1.94
+        },
+        {
+            "District Name": "SATHKHIRA",
+            "Type": "Not Suitable",
+            "Area (SQKM)": 1.74
+        },
+        {
+            "District Name": "SATHKHIRA",
+            "Type": "Marginally Suitable",
+            "Area (SQKM)": 750.88
+        },
+        {
+            "District Name": "SATHKHIRA",
+            "Type": "Suitable",
+            "Area (SQKM)": 570.94
+        },
+        {
+            "District Name": "SATHKHIRA",
+            "Type": "High Suitable",
+            "Area (SQKM)": 794.44
+        }
+    ],
+    "Excoecaria agallocha (Gewa)": [
+        {
+            "District Name": "BAGERHAT",
+            "Type": "Not Suitable",
+            "Area (SQKM)": 0.6
+        },
+        {
+            "District Name": "BAGERHAT",
+            "Type": "Marginally Suitable",
+            "Area (SQKM)": 207.27
+        },
+        {
+            "District Name": "BAGERHAT",
+            "Type": "Suitable",
+            "Area (SQKM)": 820.3
+        },
+        {
+            "District Name": "BAGERHAT",
+            "Type": "High Suitable",
+            "Area (SQKM)": 820.79
+        },
+        {
+            "District Name": "BARGUNA",
+            "Type": "Not Suitable",
+            "Area (SQKM)": 0.64
+        },
+        {
+            "District Name": "BARGUNA",
+            "Type": "Marginally Suitable",
+            "Area (SQKM)": 2.57
+        },
+        {
+            "District Name": "BARGUNA",
+            "Type": "Suitable",
+            "Area (SQKM)": 897.36
+        },
+        {
+            "District Name": "BARGUNA",
+            "Type": "High Suitable",
+            "Area (SQKM)": 300.1
+        },
+        {
+            "District Name": "BARISHAL",
+            "Type": "Not Suitable",
+            "Area (SQKM)": 0.39
+        },
+        {
+            "District Name": "BARISHAL",
+            "Type": "Marginally Suitable",
+            "Area (SQKM)": 246.91
+        },
+        {
+            "District Name": "BARISHAL",
+            "Type": "Suitable",
+            "Area (SQKM)": 1545.84
+        },
+        {
+            "District Name": "BARISHAL",
+            "Type": "High Suitable",
+            "Area (SQKM)": 0
+        },
+        {
+            "District Name": "BHOLA",
+            "Type": "Not Suitable",
+            "Area (SQKM)": 1.11
+        },
+        {
+            "District Name": "BHOLA",
+            "Type": "Marginally Suitable",
+            "Area (SQKM)": 2.36
+        },
+        {
+            "District Name": "BHOLA",
+            "Type": "Suitable",
+            "Area (SQKM)": 1236.56
+        },
+        {
+            "District Name": "BHOLA",
+            "Type": "High Suitable",
+            "Area (SQKM)": 180.36
+        },
+        {
+            "District Name": "CHATTOGRAM",
+            "Type": "Not Suitable",
+            "Area (SQKM)": 472.34
+        },
+        {
+            "District Name": "CHATTOGRAM",
+            "Type": "Marginally Suitable",
+            "Area (SQKM)": 792.09
+        },
+        {
+            "District Name": "CHATTOGRAM",
+            "Type": "Suitable",
+            "Area (SQKM)": 2711.54
+        },
+        {
+            "District Name": "CHATTOGRAM",
+            "Type": "High Suitable",
+            "Area (SQKM)": 101.67
+        },
+        {
+            "District Name": "COX’S BAZAR",
+            "Type": "Not Suitable",
+            "Area (SQKM)": 0.9
+        },
+        {
+            "District Name": "COX’S BAZAR",
+            "Type": "Marginally Suitable",
+            "Area (SQKM)": 201.25
+        },
+        {
+            "District Name": "COX’S BAZAR",
+            "Type": "Suitable",
+            "Area (SQKM)": 1070.82
+        },
+        {
+            "District Name": "COX’S BAZAR",
+            "Type": "High Suitable",
+            "Area (SQKM)": 326.28
+        },
+        {
+            "District Name": "FENI",
+            "Type": "Not Suitable",
+            "Area (SQKM)": 0.65
+        },
+        {
+            "District Name": "FENI",
+            "Type": "Marginally Suitable",
+            "Area (SQKM)": 316.6
+        },
+        {
+            "District Name": "FENI",
+            "Type": "Suitable",
+            "Area (SQKM)": 424.8
+        },
+        {
+            "District Name": "FENI",
+            "Type": "High Suitable",
+            "Area (SQKM)": 10.31
+        },
+        {
+            "District Name": "JHALOKATI",
+            "Type": "Not Suitable",
+            "Area (SQKM)": 0
+        },
+        {
+            "District Name": "JHALOKATI",
+            "Type": "Marginally Suitable",
+            "Area (SQKM)": 0.48
+        },
+        {
+            "District Name": "JHALOKATI",
+            "Type": "Suitable",
+            "Area (SQKM)": 667.54
+        },
+        {
+            "District Name": "JHALOKATI",
+            "Type": "High Suitable",
+            "Area (SQKM)": 0
+        },
+        {
+            "District Name": "KHULNA",
+            "Type": "Not Suitable",
+            "Area (SQKM)": 1.14
+        },
+        {
+            "District Name": "KHULNA",
+            "Type": "Marginally Suitable",
+            "Area (SQKM)": 315.36
+        },
+        {
+            "District Name": "KHULNA",
+            "Type": "Suitable",
+            "Area (SQKM)": 478.72
+        },
+        {
+            "District Name": "KHULNA",
+            "Type": "High Suitable",
+            "Area (SQKM)": 1103.39
+        },
+        {
+            "District Name": "LAKSHMIPUR",
+            "Type": "Not Suitable",
+            "Area (SQKM)": 0.28
+        },
+        {
+            "District Name": "LAKSHMIPUR",
+            "Type": "Marginally Suitable",
+            "Area (SQKM)": 113.36
+        },
+        {
+            "District Name": "LAKSHMIPUR",
+            "Type": "Suitable",
+            "Area (SQKM)": 781.17
+        },
+        {
+            "District Name": "LAKSHMIPUR",
+            "Type": "High Suitable",
+            "Area (SQKM)": 120.4
+        },
+        {
+            "District Name": "NOAKHALI",
+            "Type": "Not Suitable",
+            "Area (SQKM)": 4.88
+        },
+        {
+            "District Name": "NOAKHALI",
+            "Type": "Marginally Suitable",
+            "Area (SQKM)": 524.7
+        },
+        {
+            "District Name": "NOAKHALI",
+            "Type": "Suitable",
+            "Area (SQKM)": 1310.63
+        },
+        {
+            "District Name": "NOAKHALI",
+            "Type": "High Suitable",
+            "Area (SQKM)": 224.48
+        },
+        {
+            "District Name": "PATUAKHALI",
+            "Type": "Not Suitable",
+            "Area (SQKM)": 2.6
+        },
+        {
+            "District Name": "PATUAKHALI",
+            "Type": "Marginally Suitable",
+            "Area (SQKM)": 1.29
+        },
+        {
+            "District Name": "PATUAKHALI",
+            "Type": "Suitable",
+            "Area (SQKM)": 1762.79
+        },
+        {
+            "District Name": "PATUAKHALI",
+            "Type": "High Suitable",
+            "Area (SQKM)": 370.74
+        },
+        {
+            "District Name": "PIROJPUR",
+            "Type": "Not Suitable",
+            "Area (SQKM)": 0.3
+        },
+        {
+            "District Name": "PIROJPUR",
+            "Type": "Marginally Suitable",
+            "Area (SQKM)": 12.32
+        },
+        {
+            "District Name": "PIROJPUR",
+            "Type": "Suitable",
+            "Area (SQKM)": 914.69
+        },
+        {
+            "District Name": "PIROJPUR",
+            "Type": "High Suitable",
+            "Area (SQKM)": 138.33
+        },
+        {
+            "District Name": "SATHKHIRA",
+            "Type": "Not Suitable",
+            "Area (SQKM)": 0.68
+        },
+        {
+            "District Name": "SATHKHIRA",
+            "Type": "Marginally Suitable",
+            "Area (SQKM)": 435.06
+        },
+        {
+            "District Name": "SATHKHIRA",
+            "Type": "Suitable",
+            "Area (SQKM)": 619.8
+        },
+        {
+            "District Name": "SATHKHIRA",
+            "Type": "High Suitable",
+            "Area (SQKM)": 1062.43
+        }
+    ],
+    "Xylocarpus moluccensis (Poshur)": [
+        {
+            "District Name": "BAGERHAT",
+            "Type": "Not Suitable",
+            "Area (SQKM)": 1.09
+        },
+        {
+            "District Name": "BAGERHAT",
+            "Type": "Marginally Suitable",
+            "Area (SQKM)": 574.29
+        },
+        {
+            "District Name": "BAGERHAT",
+            "Type": "Suitable",
+            "Area (SQKM)": 625.1
+        },
+        {
+            "District Name": "BAGERHAT",
+            "Type": "High Suitable",
+            "Area (SQKM)": 648.45
+        },
+        {
+            "District Name": "BARGUNA",
+            "Type": "Not Suitable",
+            "Area (SQKM)": 0
+        },
+        {
+            "District Name": "BARGUNA",
+            "Type": "Marginally Suitable",
+            "Area (SQKM)": 1.04
+        },
+        {
+            "District Name": "BARGUNA",
+            "Type": "Suitable",
+            "Area (SQKM)": 229.94
+        },
+        {
+            "District Name": "BARGUNA",
+            "Type": "High Suitable",
+            "Area (SQKM)": 969.69
+        },
+        {
+            "District Name": "BARISHAL",
+            "Type": "Not Suitable",
+            "Area (SQKM)": 0.4
+        },
+        {
+            "District Name": "BARISHAL",
+            "Type": "Marginally Suitable",
+            "Area (SQKM)": 175.71
+        },
+        {
+            "District Name": "BARISHAL",
+            "Type": "Suitable",
+            "Area (SQKM)": 1617.03
+        },
+        {
+            "District Name": "BARISHAL",
+            "Type": "High Suitable",
+            "Area (SQKM)": 0
+        },
+        {
+            "District Name": "BHOLA",
+            "Type": "Not Suitable",
+            "Area (SQKM)": 0.09
+        },
+        {
+            "District Name": "BHOLA",
+            "Type": "Marginally Suitable",
+            "Area (SQKM)": 3.38
+        },
+        {
+            "District Name": "BHOLA",
+            "Type": "Suitable",
+            "Area (SQKM)": 1065.49
+        },
+        {
+            "District Name": "BHOLA",
+            "Type": "High Suitable",
+            "Area (SQKM)": 351.44
+        },
+        {
+            "District Name": "CHATTOGRAM",
+            "Type": "Not Suitable",
+            "Area (SQKM)": 0.88
+        },
+        {
+            "District Name": "CHATTOGRAM",
+            "Type": "Marginally Suitable",
+            "Area (SQKM)": 503.45
+        },
+        {
+            "District Name": "CHATTOGRAM",
+            "Type": "Suitable",
+            "Area (SQKM)": 3271.68
+        },
+        {
+            "District Name": "CHATTOGRAM",
+            "Type": "High Suitable",
+            "Area (SQKM)": 302
+        },
+        {
+            "District Name": "COXBAZAR",
+            "Type": "Not Suitable",
+            "Area (SQKM)": 0.64
+        },
+        {
+            "District Name": "COXBAZAR",
+            "Type": "Marginally Suitable",
+            "Area (SQKM)": 99.41
+        },
+        {
+            "District Name": "COXBAZAR",
+            "Type": "Suitable",
+            "Area (SQKM)": 1129.14
+        },
+        {
+            "District Name": "COXBAZAR",
+            "Type": "High Suitable",
+            "Area (SQKM)": 370.06
+        },
+        {
+            "District Name": "FENI",
+            "Type": "Not Suitable",
+            "Area (SQKM)": 0.46
+        },
+        {
+            "District Name": "FENI",
+            "Type": "Marginally Suitable",
+            "Area (SQKM)": 102.96
+        },
+        {
+            "District Name": "FENI",
+            "Type": "Suitable",
+            "Area (SQKM)": 576.45
+        },
+        {
+            "District Name": "FENI",
+            "Type": "High Suitable",
+            "Area (SQKM)": 72.46
+        },
+        {
+            "District Name": "JHALOKATI",
+            "Type": "Not Suitable",
+            "Area (SQKM)": 0
+        },
+        {
+            "District Name": "JHALOKATI",
+            "Type": "Marginally Suitable",
+            "Area (SQKM)": 0.48
+        },
+        {
+            "District Name": "JHALOKATI",
+            "Type": "Suitable",
+            "Area (SQKM)": 667.54
+        },
+        {
+            "District Name": "JHALOKATI",
+            "Type": "High Suitable",
+            "Area (SQKM)": 0
+        },
+        {
+            "District Name": "KHULNA",
+            "Type": "Not Suitable",
+            "Area (SQKM)": 2.88
+        },
+        {
+            "District Name": "KHULNA",
+            "Type": "Marginally Suitable",
+            "Area (SQKM)": 671.46
+        },
+        {
+            "District Name": "KHULNA",
+            "Type": "Suitable",
+            "Area (SQKM)": 888.62
+        },
+        {
+            "District Name": "KHULNA",
+            "Type": "High Suitable",
+            "Area (SQKM)": 335.6
+        },
+        {
+            "District Name": "LAKSHMIPUR",
+            "Type": "Not Suitable",
+            "Area (SQKM)": 0.26
+        },
+        {
+            "District Name": "LAKSHMIPUR",
+            "Type": "Marginally Suitable",
+            "Area (SQKM)": 51.88
+        },
+        {
+            "District Name": "LAKSHMIPUR",
+            "Type": "Suitable",
+            "Area (SQKM)": 795.67
+        },
+        {
+            "District Name": "LAKSHMIPUR",
+            "Type": "High Suitable",
+            "Area (SQKM)": 167.41
+        },
+        {
+            "District Name": "NOAKHALI",
+            "Type": "Not Suitable",
+            "Area (SQKM)": 0.14
+        },
+        {
+            "District Name": "NOAKHALI",
+            "Type": "Marginally Suitable",
+            "Area (SQKM)": 86.34
+        },
+        {
+            "District Name": "NOAKHALI",
+            "Type": "Suitable",
+            "Area (SQKM)": 1312.1
+        },
+        {
+            "District Name": "NOAKHALI",
+            "Type": "High Suitable",
+            "Area (SQKM)": 666.07
+        },
+        {
+            "District Name": "PATUAKHALI",
+            "Type": "Not Suitable",
+            "Area (SQKM)": 0
+        },
+        {
+            "District Name": "PATUAKHALI",
+            "Type": "Marginally Suitable",
+            "Area (SQKM)": 3.88
+        },
+        {
+            "District Name": "PATUAKHALI",
+            "Type": "Suitable",
+            "Area (SQKM)": 1224.51
+        },
+        {
+            "District Name": "PATUAKHALI",
+            "Type": "High Suitable",
+            "Area (SQKM)": 909.03
+        },
+        {
+            "District Name": "PIROJPUR",
+            "Type": "Not Suitable",
+            "Area (SQKM)": 0.5
+        },
+        {
+            "District Name": "PIROJPUR",
+            "Type": "Marginally Suitable",
+            "Area (SQKM)": 58.21
+        },
+        {
+            "District Name": "PIROJPUR",
+            "Type": "Suitable",
+            "Area (SQKM)": 818.05
+        },
+        {
+            "District Name": "PIROJPUR",
+            "Type": "High Suitable",
+            "Area (SQKM)": 188.89
+        },
+        {
+            "District Name": "SATHKHIRA",
+            "Type": "Not Suitable",
+            "Area (SQKM)": 1.7
+        },
+        {
+            "District Name": "SATHKHIRA",
+            "Type": "Marginally Suitable",
+            "Area (SQKM)": 977.59
+        },
+        {
+            "District Name": "SATHKHIRA",
+            "Type": "Suitable",
+            "Area (SQKM)": 788.6
+        },
+        {
+            "District Name": "SATHKHIRA",
+            "Type": "High Suitable",
+            "Area (SQKM)": 350
+        }
+    ]
+}

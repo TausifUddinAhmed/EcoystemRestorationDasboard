@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Afforestation Site Dashboard</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="sidebar">
+            <div class="header">Forest Suitability</div>
+            <div style="margin-top: 20px;">
+                <label for="district"> District Wise:</label>
+                <select id="district" name="district" style="margin-top: 10px; margin-left: 8px;">
+                    <option value="nothing"> Select District</option>
+                    <option value="bagerhat">Bagerhat</option>
+                    <option value="barisal">Barisal</option>
+                    <option value="bhola">Bhola</option>
+                    <option value="borguna">Borguna</option>
+                    <option value="chattogram">Chattogram</option>
+                    <option value="coxbazar">Coxbazar</option>
+                    <option value="feni">Feni</option>
+                    <option value="jhalokati">Jhalokati</option>
+                    <option value="khulna">Khulna</option>
+                    <option value="lakshimpur">Lakshimpur</option>
+                    <option value="patuakhali">Patuakhali</option>
+                    <option value="pirojpur">Pirojpur</option>
+                    <option value="sathkhira">Sathkhira</option>
+                </select>
+            </div>
+            <div>
+                <label for="species"> Species Wise:</label>
+                <select id="species" name="species" style="margin-top: 10px;">
+                    <option value="nothing"> Select Species</option>
+                    <option value="keora">Sonneratia apetala (Keora)</option>
+                    <option value="baen">Avicennia officinalis (Baen)</option>
+                    <option value="gewa">Excoecaria agallocha (Gewa)</option>
+                    <option value="poshur">Xylocarpus moluccensis (Poshur)</option>
+                </select>
+            </div>
+            <div class="filter-section" style="margin-top: 20px;">
+                <label for="crop"> Favourable Environment</label>
+                <input type="checkbox" id="vs" name="vs"unchecked> Highly Suitable (VS) <br>
+                <input type="checkbox" id="s" name="s" unchecked> Suitable (S) <br>
+                <input type="checkbox" id="ls" name="ls"unchecked> Marginally Suitable (LS) <br>
+                <input type="checkbox" id="ns" name="ns" unchecked> Not Suitable (NS) <br>
+            </div>
+            <div class="chart">
+                <h3>Forest Suitability [Square Kilometers]</h3>
+                <canvas id="chart"></canvas>
+            </div>
+        </div>
+        <div class="content">
+            <div class="tags-container" style="margin-top: 20px;">
+                <span>Forest Suitability  Factor</span>
+                <span id="openTopographicDialog" class="tag tag-html">Topographic</span>
+                <span  id="openClimaticeDialog" class="tag tag-css">Climatic</span>
+                <span id="openAnthropogenicDialog" class="tag tag-js">Anthropogenic</span>
+                <span id="openEdaphicDialog" class="tag tag-python">Edaphic</span>
+            </div>
+            <div class="map" id="map" style="margin-top: 20px;" ></div>
+        </div>
+        <dialog id="sampleDialog">
+            <h1>Topographic</h1>
+            <p>Aspect</p>
+            <p>Slope</p>            
+            <p>Elevation</p>
+            <p>Distance from waterbodies</p>
+            <p>Land Cover</p>
+            <button id="closeDialog">Close</button>
+        </dialog>
+        <dialog id="sampleDialogClimatic">
+            <h1>Climatic</h1>
+            <p>Temperature</p>
+            <p>Pricipitation</p>            
+            <button id="closeDialogV2">Close</button>
+        </dialog>
+        <dialog id="sampleDialogAnthro">
+            <h1>Anthropogenic</h1>
+            <p>Population Density</p>
+            <p>Distance from settlement</p>            
+            <p>Distance from road</p>
+            <button id="closeDialogV3">Close</button>
+        </dialog>
+        <dialog id="sampleDialogEdaphic">
+            <h1>Edaphic</h1>
+            <p>Solid Depth</p>
+            <p>Soil Nutrient Status</p>            
+            <p>Soil Drainge</p>
+            <p>Soil Permeability</p>
+            <p>Soil Ph</p>
+            <p>Soil Solinity</p>
+            <p>Soil Texture</p>
+            <p>Soil Consistency</p>
+            <button id="closeDialogV4">Close</button>
+        </dialog>
+    </div>
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="scripts.js"></script>
+</body>
+</html>
